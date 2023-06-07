@@ -1,1 +1,3 @@
 This is the Hello World text document that we created during the GIT/GITHUB practice on Week 1 of Code Platoon. Enjoy Coding!!
+
+I am editing this document from anotherBranch1. The previous text was entered from the master branch.
